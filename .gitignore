@@ -39,3 +39,25 @@
 
 # debug information files
 *.dwo
+
+# VSCode
+.vscode/
+.vs/
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.user
+*.sln
+*.filters
+*.user
+
+# Build / executabile
+*.exe
+*.o
+*.obj
+/build/
+
+# Alte fișiere temporare
+*.log
+*.tmp
+
